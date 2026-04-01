@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Header from "./components/Header";
 import Slider from "./components/Slider";
 import Image from "./components/Image";
-import ImageText from "./components/ImageText";
+import ImageText from "./components/Imagetext";
 import Card from "./components/Card";
 import Banner from "./components/Banner";
 import Text from "./components/Text";
